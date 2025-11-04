@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyrusf94
-- 👀 I’m interested in learning c# and unity 
-- 🌱 I’m currently building a Full-Stack MERN application with a small team
+- 👀 I’m interested in learning unity 
+- 🌱 I’m currently a .Net Developer specifically working on internal tools
 - 📫 How to reach me LinkedIn
 
 <!---
